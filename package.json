@@ -30,7 +30,7 @@
     "loopback-boot": "^2.6.5",
     "loopback-component-explorer": "^4.0.0",
     "loopback-connector-mongodb": "^4.2.0",
-    "marked": "^0.3.6",
+    "marked": "^0.3.18",
     "request": "^2.76.0",
     "serve-favicon": "^2.0.1",
     "sharp": "^0.23.2",
